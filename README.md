@@ -52,7 +52,7 @@ So for this reason, in real life, we proposed a project that is light break dete
 
 ### Components/Items Required:
 
-<img src="IOT Project/Project-Images/Components.png" height="120" alt="">
+<img src="IOT Project/Project-Images/Components.png" >
 
 
 
