@@ -52,7 +52,7 @@ So for this reason, in real life, we proposed a project that is light break dete
 
 ### Components/Items Required:
 
-<img src="IOT Project/Project-Images/Components.png"/>
+<img src="IOT Project/Project-Images/Components.png" height="120" alt="">
 
 
 
@@ -61,10 +61,10 @@ So for this reason, in real life, we proposed a project that is light break dete
 
 
 
-<img src="IOT Project/Project-Images/LED Implementation.png"/>
-<img src="IOT Project/Project-Images/Buzzer Implementation.png"/>
-<img src="IOT Project/Project-Images/OLED Implementation.png"/>
-<img src="IOT Project/Project-Images/Final Image.png"/>
+<img src="IOT Project/Project-Images/LED Implementation.png">
+<img src="IOT Project/Project-Images/Buzzer Implementation.png">
+<img src="IOT Project/Project-Images/OLED Implementation.png">
+<img src="IOT Project/Project-Images/Final Image.png">
 
 ---
 
