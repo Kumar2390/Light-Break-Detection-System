@@ -52,7 +52,7 @@ So for this reason, in real life, we proposed a project that is light break dete
 
 ### Components/Items Required:
 
-<img src="IOT Project/project-image/Components.png"/>
+<img src="IOT Project/Project-Images/Components.png"/>
 
 
 
@@ -61,16 +61,16 @@ So for this reason, in real life, we proposed a project that is light break dete
 
 
 
-<img src="IOT Project/project-image/LED Implementation.png"/>
-<img src="IOT Project/project-image/Buzzer Implementation.png"/>
-<img src="IOT Project/project-image/OLED Implementation.png"/>
-<img src="IOT Project/project-image/Final Image.jpg"/>
+<img src="IOT Project/Project-Images/LED Implementation.png"/>
+<img src="IOT Project/Project-Images/Buzzer Implementation.png"/>
+<img src="IOT Project/Project-Images/OLED Implementation.png"/>
+<img src="IOT Project/Project-Images/Final Image.png"/>
 
 ---
 
 ## :man: Project Created & Maintained By
 
-<img src = "IOT Project/project-image/profile.png"  height="130" alt=""> <br>Ashwini Kumar Behera
+<img src = "IOT Project/Project-Images/profile.jpg"  height="130" alt=""> <br>Ashwini Kumar Behera
 <p>
 <a href = "https://github.com/Kumar2390"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
 <a href = "https://www.linkedin.com/in/ashwini-kumar-behera-14a9a4215/">
